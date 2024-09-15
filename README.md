@@ -354,3 +354,10 @@ Copyright (c) 2015-2016 Huxpro
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+
+
+## rename main->master
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
