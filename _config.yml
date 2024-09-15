@@ -78,8 +78,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>后悔之前，一切都会变好。"
-sidebar-avatar: /img/avatar.mp4     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Not really understand but acceptance<br>后悔之前，一切都会变好。"
+sidebar-avatar: /img/avator.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
